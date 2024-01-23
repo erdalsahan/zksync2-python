@@ -1,6 +1,6 @@
 # 🚀 zksync2-python Python SDK 🚀
 
-![Era Logo](https://github.com/matter-labs/era-contracts/raw/main/eraLogo.svg)
+![Era Logo](https://github.com/matter-labs/era-contracts/raw/main/eraLogo.svg) 
 
 In order to provide easy access to all the features of zkSync Era, the `zksync2-python` Python SDK was created,
 which is made in a way that has an interface very similar to those of [web3py](https://web3py.readthedocs.io/en/v6.6.1/). In
